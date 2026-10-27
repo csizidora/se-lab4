@@ -1,0 +1,3 @@
+# Try both in ALL
+GT4500,3,0,3,0
+TORPEDO,ALL
