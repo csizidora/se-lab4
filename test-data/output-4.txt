@@ -1,0 +1,2 @@
+SUCCESS   # <- GT4500
+SUCCESS   # <- TORPEDO,ALL (min 1 (usually 2) fire)
