@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- first SINGLE fires primary
+SUCCESS  # <- second SINGLE fires secondary
+SUCCESS  # <- third SINGLE falls back to secondary
